@@ -1,0 +1,77 @@
+{
+    "title": "AUM ATHARVA-VEDA",
+    "sanskrit_title": "अथर्ववेदः",
+    "kanda": "KANDA-1",
+    "suktas": [
+      {
+        "number": 1,
+        "name": "Hymn of Victory",
+        "topic": "Development of Intelligence",
+        "devata": "Vachaspati",
+        "rshi": "Atharva",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "ये त्रिष्ताः परियन्ति विश्वा रूपाणि बिभ्रतःः वाचस्पत्रिर्बला तेषां तन्वो अद्य दंधातु मे ॥",
+            "transliteration": "Ye triṣaptāh pariyanti viśvā rūpāni bibhratah. Vācaspatirbalā teṣām tanvo adya dadhātu me.",
+            "meaning": "Thrice seven are the entities which bear, wear and comprise the entire world of forms in existence. May Vachaspati, omniscient lord of speech, awareness and the phenomenal world bless me with the body of knowledge pertaining to their essences, names, forms, powers, functions and relationships here and now.",
+            "note": "The 'thrice-seven' of phenomenal world is explained in detail in the original text."
+          },
+          {
+            "number": 2,
+            "sanskrit": "पुन्रेहि वाचस्पते देवेन् मनसा सह। वसौष्पत्रे नि रमय मय्येवास्तु मयिं श्रुतम् ॥",
+            "transliteration": "Punarehi vācaspate devena manasā saha. Vasoṣpate ni ramaya mayyevāstu mayi śrutam.",
+            "meaning": "O Vachaspati, lord of phenomenal world, giver of knowledge and power, wealth and value, come and bring me a brilliant holy mind, stop not the process, and whatever I hear, let it stay with me."
+          },
+          {
+            "number": 3,
+            "sanskrit": "इ़हैवाभि वि तऩूभे आर्त्नी इव् ज्यया। वाचस्पतिर्नि यंच्छतु मय्येवास्तु मयि श्रुतम्॥",
+            "transliteration": "Ihaivābhi vi tanūbhe ārtnī-iva jyayā. Vācaspatirni yacchatu mayyevāstu mayi śrutam.",
+            "meaning": "Here itself, in the process of learning and teaching, let both teacher and disciple be at the optimum tension of joyous instruction like the string at both ends of the bow. May Vachaspati lead on in the discipline. What I hear and learn, let it stay with me.",
+            "note": "The word 'ubhe', both, has also been interpreted as 'knowledge and knowledge-based action in top condition'."
+          },
+          {
+            "number": 4,
+            "sanskrit": "उपहूतो वाचस्पतिरुपास्मान्वाचस्पतिर्व्वयताम्। सं श्रुतेने गमेमहि मा श्रुतेन् वि राधिषि ॥",
+            "transliteration": "Upahūto vācaspatirupāsmānvācaspatirhvayatām. Sai̇ śrutena gamemahi mā śrutena virādhiṣi.",
+            "meaning": "Invoked is Vachaspati, may Vachaspati give us the call and inspiration. Let us follow and practice what we have heard and confirmed. Do not lose, do not disvalue, never revile what you have learnt."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "name": "Hymn of Victory",
+        "topic": "Victory over illness, enemies, and difficulties of life",
+        "devata": "Parjanya",
+        "rshi": "Atharva",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "विद्मा श्रस्य पितरं पर्जन्यं भूरिधायसम्। विद्मो ष्वस्य मातरं पृथिवीं भूरिवर्पसम्॥",
+            "transliteration": "Vidmā śarasya pitaram parjanyami bhūridhāyasam. Vidmo ṣvasya mātaram pṛthivìm bhūrivarpasam.",
+            "meaning": "We know the shara's father, abundant all sustaining Parjanya, water bearing cloud in the firmament, and its mother, fertile all bearing Prthivi, earth, too we know well.",
+            "note": "Shara is a reed which has great medicinal qualities. It is also an arrow, a weapon of defence, victory and freedom. It is also interpreted as a son, a brave youthful hero."
+          },
+          {
+            "number": 2,
+            "sanskrit": "ज्या के परि णो न्रमाश्मानं त्न्वं कृधि। वीडुर्वरीयोऽ रातीरप द्वेषांस्या कृधि ॥",
+            "transliteration": "Jyā ke pari ṇo namāśmānam் tanvà̇ krdhi. Vịdurvarīyo'rātīrapa dveșàmisya krdhi.",
+            "meaning": "O Jyaka, earth, mother, bow string, develop us and build our body, the social system, the nation, to the strength of adamant and steel. Strong as you are, eliminate the jealous and the enemies, the niggards and the frustraters."
+          },
+          {
+            "number": 3,
+            "sanskrit": "वृक्षं यद्नार्वं: परिषस्वजाना अंनुस्फुरं शरमर्चन्त्त्युभुम्। शरुम्मस्मद्यावय दिद्युमिन्द्र ॥",
+            "transliteration": "Vṛkṣam yadgāvah pariṣasvajānā anusphuraṁ śaramarcantyrbhum. Śarumasmadyāvaya didyumindra.",
+            "meaning": "When the bow strings of the warriors, strung by the ends of the bow at optimum tension, shoot the sharp and deadly whizzing arrows, then, O mighty warrior, O commander, O Indra, intercept and throw off the enemy's missiles far from us."
+          },
+          {
+            "number": 4,
+            "sanskrit": "यथा द्यां चं पृथिवीं चान्तस्तिष्ठति तेजनम्। एवा रोगं चास्त्रावं चान्तस्तिष्ठतु मुञ्ज्ञ इत्॥",
+            "transliteration": "Yathā dyāṁ ca prthivī̀ cāntastiș̣thati tejanam. Evā rogami cāsrāvam cāntastiṣ̣thatu muñja it.",
+            "meaning": "O ruler, O physician, O teacher, just as sharp catalytic light energy abides in heaven, on earth and in the firmament and destroys antilife elements, similarly let the power of the arrow, the medicinal munja grass, the twisted munja girdle of the disciple, strengthen and protect humanity's security and peace, health of the individual and society, and the intellectual and moral health of the disciple against evil, weakness, disease and wasteful flow out."
+          }
+        ]
+      }
+    ]
+  }
+  

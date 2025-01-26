@@ -1,0 +1,40 @@
+{
+    "title": "AUM ATHARVA-VEDA",
+    "sanskrit_title": "अथर्ववेदः",
+    "kanda": "KANDA-1",
+    "sukta": {
+      "number": 1,
+      "name": "Hymn of Victory",
+      "topic": "Development of Intelligence",
+      "devata": "Vachaspati Devata",
+      "rshi": "Atharva Rshi",
+      "verses": [
+        {
+          "number": 1,
+          "sanskrit": "ये त्रिष्ताः पर्रियन्ति विश्वा रूपाणि बिभ्रतः। वाचस्पतिर्बला तेषां तन्वो अद्य दंधातु मे ॥",
+          "transliteration": "Ye triṣaptāh pariyanti viśvā rūpāni bibhratah. Vācaspatirbalā teṣām tanvo adya dadhātu me.",
+          "meaning": "Thrice seven are the entities which bear, wear and comprise the entire world of forms in existence. May Vachaspati, omniscient lord of speech, awareness and the phenomenal world bless me with the body of knowledge pertaining to their essences, names, forms, powers, functions and relationships here and now.",
+          "note": "The 'thrice-seven' of phenomenal world is explained in detail in the provided text."
+        },
+        {
+          "number": 2,
+          "sanskrit": "पुन्रोहि वाचस्पते देवेन् मनंसा सूह। वसौष्पत्रे नि रममय मय्येवास्तु मयिं श्रुतम् ॥",
+          "transliteration": "Punarehi vācaspate devena manasā saha. Vasoṣpate ni ramaya mayyevāstu mayi śrutam.",
+          "meaning": "O Vachaspati, lord of phenomenal world, giver of knowledge and power, wealth and value, come and bring me a brilliant holy mind, stop not the process, and whatever I hear, let it stay with me."
+        },
+        {
+          "number": 3,
+          "sanskrit": "ड्हैवाभि वि तनूभे आर्त्नी इव् ज्यया। वाचस्पतिर्नि यंच्छतु मय्येवास्तु मयि श्रुतम् ॥",
+          "transliteration": "Ihaivābhi vi tanūbhe ārtnī-iva jyayā. Vācaspatirni yacchatu mayyevāstu mayi śrutam.",
+          "meaning": "Here itself, in the process of learning and teaching, let both teacher and disciple be at the optimum tension of joyous instruction like the string at both ends of the bow. May Vachaspati lead on in the discipline. What I hear and learn, let it stay with me.",
+          "note": "The word 'ubhe', both, has also been interpreted as 'knowledge and knowledge-based action in top condition'."
+        },
+        {
+          "number": 4,
+          "sanskrit": "उपहूतो वाचस्पत्तिरुपास्मान्वाचस्पतिर्व्वयताम्। सं श्रुतेन गमेमहि मा श्रुतेन्न वि राधिषि ॥",
+          "transliteration": "Upahūto vācaspatirupāsmānvācaspatirhvayatām. Saḿ śrutena gamemahi mā śrutena virādhiṣi.",
+          "meaning": "Invoked is Vachaspati, may Vachaspati give us the call and inspiration. Let us follow and practice what we have heard and confirmed. Do not lose, do not disvalue, never revile what you have learnt."
+        }
+      ]
+    }
+  }

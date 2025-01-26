@@ -1,0 +1,567 @@
+{
+    "title": "AUM ATHARVA-VEDA",
+    "sanskrit_title": "अथर्ववेदः",
+    "kanda": "KANDA-1",
+    "suktas": [
+      {
+        "number": 1,
+        "name": "Hymn of Victory",
+        "topic": "Development of Intelligence",
+        "devata": "Vachaspati",
+        "rshi": "Atharva",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "ये त्रिष्ताः परियन्ति विश्वा रूपाणि बिभ्रतःः वाचस्पत्रिर्बला तेषां तन्वो अद्य दंधातु मे ॥",
+            "transliteration": "Ye triṣaptāh pariyanti viśvā rūpāni bibhratah. Vācaspatirbalā teṣām tanvo adya dadhātu me.",
+            "meaning": "Thrice seven are the entities which bear, wear and comprise the entire world of forms in existence. May Vachaspati, omniscient lord of speech, awareness and the phenomenal world bless me with the body of knowledge pertaining to their essences, names, forms, powers, functions and relationships here and now.",
+            "note": "The 'thrice-seven' of phenomenal world is explained in detail in the original text."
+          },
+          {
+            "number": 2,
+            "sanskrit": "पुन्रेहि वाचस्पते देवेन् मनसा सह। वसौष्पत्रे नि रमय मय्येवास्तु मयिं श्रुतम् ॥",
+            "transliteration": "Punarehi vācaspate devena manasā saha. Vasoṣpate ni ramaya mayyevāstu mayi śrutam.",
+            "meaning": "O Vachaspati, lord of phenomenal world, giver of knowledge and power, wealth and value, come and bring me a brilliant holy mind, stop not the process, and whatever I hear, let it stay with me."
+          },
+          {
+            "number": 3,
+            "sanskrit": "इ़हैवाभि वि तऩूभे आर्त्नी इव् ज्यया। वाचस्पतिर्नि यंच्छतु मय्येवास्तु मयि श्रुतम्॥",
+            "transliteration": "Ihaivābhi vi tanūbhe ārtnī-iva jyayā. Vācaspatirni yacchatu mayyevāstu mayi śrutam.",
+            "meaning": "Here itself, in the process of learning and teaching, let both teacher and disciple be at the optimum tension of joyous instruction like the string at both ends of the bow. May Vachaspati lead on in the discipline. What I hear and learn, let it stay with me.",
+            "note": "The word 'ubhe', both, has also been interpreted as 'knowledge and knowledge-based action in top condition'."
+          },
+          {
+            "number": 4,
+            "sanskrit": "उपहूतो वाचस्पतिरुपास्मान्वाचस्पतिर्व्वयताम्। सं श्रुतेने गमेमहि मा श्रुतेन् वि राधिषि ॥",
+            "transliteration": "Upahūto vācaspatirupāsmānvācaspatirhvayatām. Sai̇ śrutena gamemahi mā śrutena virādhiṣi.",
+            "meaning": "Invoked is Vachaspati, may Vachaspati give us the call and inspiration. Let us follow and practice what we have heard and confirmed. Do not lose, do not disvalue, never revile what you have learnt."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "name": "Hymn of Victory",
+        "topic": "Victory over illness, enemies, and difficulties of life",
+        "devata": "Parjanya",
+        "rshi": "Atharva",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "विद्मा श्रस्य पितरं पर्जन्यं भूरिधायसम्। विद्मो ष्वस्य मातरं पृथिवीं भूरिवर्पसम्॥",
+            "transliteration": "Vidmā śarasya pitaram parjanyami bhūridhāyasam. Vidmo ṣvasya mātaram pṛthivìm bhūrivarpasam.",
+            "meaning": "We know the shara's father, abundant all sustaining Parjanya, water bearing cloud in the firmament, and its mother, fertile all bearing Prthivi, earth, too we know well.",
+            "note": "Shara is a reed which has great medicinal qualities. It is also an arrow, a weapon of defence, victory and freedom. It is also interpreted as a son, a brave youthful hero."
+          },
+          {
+            "number": 2,
+            "sanskrit": "ज्या के परि णो न्रमाश्मानं त्न्वं कृधि। वीडुर्वरीयोऽ रातीरप द्वेषांस्या कृधि ॥",
+            "transliteration": "Jyā ke pari ṇo namāśmānam் tanvà̇ krdhi. Vịdurvarīyo'rātīrapa dveșàmisya krdhi.",
+            "meaning": "O Jyaka, earth, mother, bow string, develop us and build our body, the social system, the nation, to the strength of adamant and steel. Strong as you are, eliminate the jealous and the enemies, the niggards and the frustraters."
+          },
+          {
+            "number": 3,
+            "sanskrit": "वृक्षं यद्नार्वं: परिषस्वजाना अंनुस्फुरं शरमर्चन्त्त्युभुम्। शरुम्मस्मद्यावय दिद्युमिन्द्र ॥",
+            "transliteration": "Vṛkṣam yadgāvah pariṣasvajānā anusphuraṁ śaramarcantyrbhum. Śarumasmadyāvaya didyumindra.",
+            "meaning": "When the bow strings of the warriors, strung by the ends of the bow at optimum tension, shoot the sharp and deadly whizzing arrows, then, O mighty warrior, O commander, O Indra, intercept and throw off the enemy's missiles far from us."
+          },
+          {
+            "number": 4,
+            "sanskrit": "यथा द्यां चं पृथिवीं चान्तस्तिष्ठति तेजनम्। एवा रोगं चास्त्रावं चान्तस्तिष्ठतु मुञ्ज्ञ इत्॥",
+            "transliteration": "Yathā dyāṁ ca prthivī̀ cāntastiș̣thati tejanam. Evā rogami cāsrāvam cāntastiṣ̣thatu muñja it.",
+            "meaning": "O ruler, O physician, O teacher, just as sharp catalytic light energy abides in heaven, on earth and in the firmament and destroys antilife elements, similarly let the power of the arrow, the medicinal munja grass, the twisted munja girdle of the disciple, strengthen and protect humanity's security and peace, health of the individual and society, and the intellectual and moral health of the disciple against evil, weakness, disease and wasteful flow out."
+          }
+        ]
+      }, 
+      {
+        "number": 3,
+        "name": "Health of Body and Mind",
+        "topic": "Health and well-being",
+        "devata": "Parjanya, Mitra, etc.",
+        "rshi": "Atharva",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "विद्मा श्रस्य पितरं पर्जन्यं शतवृष्ण्यम्। तेना ते तन्वे३ शं करं पृथिव्यां तें निषेचनं बहिष्टे अस्तु बालिति ॥",
+            "transliteration": "Vidmā śarasya pitaraṁ parjanyà̇ śatavṛ̣nyam. Tenā te tanve'śamin karami prthivyā̀ te niṣecanaṁ bahiș̣te astu bāliti.",
+            "meaning": "We know the progenitor of Shara, nature's energy of health and vigour, Parjanya, the abundant cloud of a hundredfold vigour and vitality. Thereby I bring health of body and equanimity of mind to you. Let there be the infusion of energy, protection of health and cleansing of the body system without delay here on earth."
+          },
+          {
+            "number": 2,
+            "sanskrit": "विद्मा श्रस्य पितरं मित्रं शतवृष्ण्यम्। तेना ते तन्वे३ शमिन् करमि पृथिव्यां तें निषेचनंन बहिष्टे अस्तु बालिति।।",
+            "transliteration": "Vidmā śarasya pitaram mitraṁ śatavṛ̣ṇyam. Tenā te tanve'śamin karami prthivyā̀ te niṣecanaṁ bahiș̣te astu bāliti.",
+            "meaning": "We know the progenitor of Shara, Mitra, profuse pranic energy of nature of a hundredfold vigour and vitality. Thereby I bring you health of body and peace of mind. Let there be the infusion of vigour, protection of health and cleansing of the body system on earth without delay."
+          },
+          {
+            "number": 3,
+            "sanskrit": "विद्मा श्रस्य पितरं वरुणं शतवृष्ण्यम्। तेना ते तन्वे३ शमिन् करं पृथिव्यां तें निषेचनं बहिष्टें अस्तु बालिति।।",
+            "transliteration": "Vidmā śarasya pitaraṁ varunaṁ śatavṛ̣̣̣nyam. Tenā te tanve'śamin karam் prthivyā̀ te niṣecanaṁ bahiṣ̣te astu bāliti.",
+            "meaning": "We know the father of Shara, Varuna, nature's water energy of a hundredfold vigour and vitality. Thereby I bring you health of body and peace of mind. Let the infusion of vigour, protection of health and cleansing of the body system be here itself on earth without delay."
+          },
+          {
+            "number": 4,
+            "sanskrit": "विद्या श्रस्य पितरं चन्द्रं शृतवृष्णयम्। तेना' ते तन्वे३ शं करं पृथिव्यां ते निषेचनं ब्रहिष्टे अस्तु बालिति ॥",
+            "transliteration": "Vidmā śarasya pitaraṁ candram̉ śatavṛ̣̣nyam. Tenā te tanve'śam் karam் prthivyā̀ te niṣecanaṁ bahiṣ̣e astu bāliti.",
+            "meaning": "We know Shara's father, the Moon, its profuse herbal energy of a hundredfold vigour and vitality. Thereby I bring you health of body and tranquillity of mind. Let there be infusion of health and vigour, protection of vitality and cleansing of the system here on earth without delay."
+          },
+          {
+            "number": 5,
+            "sanskrit": "विद्मा श्रस्य पितरं सूर्यं शतवृष्ण्यम्। तेना ते तन्वे३ शं करं पृथिव्यां तें निषेचनं बहिष्टें अस्तु बालिति॥",
+            "transliteration": "Vidmā śarasya pitaraṁ sūryaṁ śatavṛ̣ṇyam. Tenā te tanve'śam karaím prthivyā̀ te niṣecanaṁ bahiṣ̣e astu bāliti.",
+            "meaning": "We know Shara's father, the sun, of a hundredfold virility. Thereby I bring you health of mind and body with peace and tranquillity. Let there be infusion of vigour, protection of health and cleansing of the system here itself on earth without delay."
+          },
+          {
+            "number": 6,
+            "sanskrit": "यदान्त्रेष्' गवीन्योर्यद्वस्तावधि संश्रुतम्। एवा ते मूत्रं मुच्यतां ब्रहिर्बालिति सर्वक्य् ॥",
+            "transliteration": "Yadāntreṣu gavīnyoryadvastāvadhi samiśrutam. Evā te mūtrami mucyatām் bahirbāliti sarvakam.",
+            "meaning": "Whatever stays collected in your intestines, in urinary ducts and in the bladder, let it be thus released all at once."
+          },
+          {
+            "number": 7,
+            "sanskrit": "प्र ते भिनद्यि मेहन्ं वर्त्रं वेशुन्त्याइव । एवा ते मूत्रं मुच्यतां ब्रहिर्बालिति सर्वकम्॥",
+            "transliteration": "Pra te bhinadmi mehanaṁ vartrà̇ veśantyā-iva. Evā te mūtrà் mucyatā̀̇ bahirbāliti sarvakam.",
+            "meaning": "I remove the obstruction, open the urethra and release the flow. Let the urine flow free all at once."
+          },
+          {
+            "number": 8,
+            "sanskrit": "विषितं ते वस्तिबिलं संमुद्रस्योद्धेरिव। एवा ते मूत्रं मुच्यतां ब्रहिर्बालिति सर्वकम् |",
+            "transliteration": "Viṣitam te vastibilam samudrasyodadheriva. Evā te mūtrami mucyatām̉ bahirbāliti sarvakam.",
+            "meaning": "The mouth of your bladder is open like a flood of the sea. Let the urine then flow free all at once."
+          },
+          {
+            "number": 9,
+            "sanskrit": "यथैषुका प्रापत्तदवस्त्टाऽधि धन्वनः । एवा ते मूत्रं मुच्यतां बहिर्बालिति सर्वकम्॥",
+            "transliteration": "Yatheṣuka parāpatadavasrṣtā dhi dhanvanah. Evā te mūtrami mucyatāṁ bahirbāliti sarvakam.",
+            "meaning": "Just as the arrow shot and released from the bow flies forth far, so let the urine flow free all at once."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "name": "Water Treatment",
+        "topic": "Healing properties of water",
+        "devata": "Apah",
+        "rshi": "Sindhudvipa",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "अम्बयो यन्त्यध्वभिर्जामयों अध्वरीयताम्। पृक्च्चतीर्मधुना पयः ॥",
+            "transliteration": "Ambayo yantyadhvabhirjāmayo adhvarīyatām. Pṛñatīrmadhunā payah.",
+            "meaning": "Streams of nature's living energy, life giving mothers and loving sisters of humanity, performing the soma yajna of their life of love and non-violence, flow on by their divine paths on the vedi of life mixing the waters of living vitality with the sweets of honey and soma of joyous living for us."
+          },
+          {
+            "number": 2,
+            "sanskrit": "अमूर्या उप सूर्ये याभिर्वा सूर्यः सह। ता नो हिन्वन्त्वध्व्र्य् ॥",
+            "transliteration": "Amūryā upa sūrye yābhirvā sūryah saha. Tā no hinvantvadhvaram.",
+            "meaning": "And may those waters which are close to the sun, and in the sun itself, with which the sun nourishes life, flow and advance our yajna of life with energy and enthusiasm without violence."
+          },
+          {
+            "number": 3,
+            "sanskrit": "अपो देवीरुप्प ह्वये यत्र गाव् पिबन्ति नः। सिन्धुभ्य्यः कर्त्व ह्रविः ॥",
+            "transliteration": "Apo devīrupa hvaye yatra gāvah pibanti nah. Sindhubhyah kartvaim havih.",
+            "meaning": "I invoke those divine waters sucked up by the sun's rays which shower for our rivers, where our lands and cows find nourishment and whereby we create holy materials for our yajna."
+          },
+          {
+            "number": 4,
+            "sanskrit": "अप्स्व१ंन्तर्मृत्तम्सु भैषजम्। अपामुत प्रश्रस्तिभ्रिर्वा भवर्थ वाजिनो गारों भवथ वाजिनी: ॥",
+            "transliteration": "Apsvantaramrtamapsu bheșajam. Apāmuta praśastibhiraśsa bhavatha vājino gàvo bha-vatha vājinīh.",
+            "meaning": "There is the nectar of life in the waters. There is health and medicinal efficacy in the waters. And by the admirable nourishing values of waters, horses become strong and rush to victory, cows become fertile, lands become rich."
+          }
+        ]
+      }, 
+      {
+        "number": 5,
+        "name": "Blessings of Water",
+        "topic": "Health and well-being",
+        "devata": "Apah",
+        "rshi": "Sindhudvipa and Krti",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "आपो हि ष्ठा मयोभुवस्ता ने ऊर्जे दधातन। महे रणायु चक्षैसे ॥",
+            "transliteration": "Åpo hi ¶¢hå mayobhuvaståna μurje dadhåtana. Mahe raƒåya cak¶ase.",
+            "meaning": "Apah, liquid energies of nature, you are creators and givers of peace and joy. Pray inspire us for the achievement of food and energy for body, mind and soul so that we may realise and enjoy the mighty splendour of divinity within and without."
+          },
+          {
+            "number": 2,
+            "sanskrit": "यो व': शिवत्तमो रसस्तस्य भाजयतेह ने:। उश्तीरिव मातरर: ॥",
+            "transliteration": "Yo va¨ ‹ivatamo rasastasya bhåjayateha na¨. U‹at∂riva måtara¨.",
+            "meaning": "Let us share here itself in body that nectar sweet of yours which is most blissful, pray nourish us as loving mothers feed their children."
+          },
+          {
+            "number": 3,
+            "sanskrit": "तस्मा अरं गमाम वो यस्य क्षयायु जिन्वंथ। आपो जनयथा च नः ॥",
+            "transliteration": "Tasmå ara≈ gamåma vo yasya k¶ayåya jinvatha. Åpo janayathå ca na¨.",
+            "meaning": "O holy waters, for that peace, pleasure and enlightenment, we come to you without delay for the promotion and stability of which you move and impel people and powers and for which you invigorate us too. Pray bless us with vigour and vitality."
+          },
+          {
+            "number": 4,
+            "sanskrit": "ईशाना वार्यीणां क्षयन्तीश्चर्षणीनाम्। अपो याचामि भेषजम् ॥",
+            "transliteration": "∫‹ånå våryåƒå≈ k¶ayant∂‹car¶aƒ∂nåm. Apo yåcåmi bhe¶ajam.",
+            "meaning": "Sovereign givers of the cherished gifts of health against avoidable ailments, harbingers of peace and settlement with elimination of wasting diseases, O waters of life, I pray for your gifts of sanatives, health and bliss of well being."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "name": "Waters for Health and Happiness",
+        "topic": "Health and well-being",
+        "devata": "Apah",
+        "rshi": "Sindhudvipa, Krti, or Atharva",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "शं नो द्रेवीरभिष्टय्य आपो भवन्तु पीतये। शं योरुभि स्र्रवन्तु नः॥",
+            "transliteration": "›a≈ no dev∂rabhi¶¢aya åpo bhavantu p∂taye. ›a≈ yorabhi sravantu na¨.",
+            "meaning": "May the divine waters be for our peace and bliss of our cherished desire and bring us showers of peace, protection and blessedness with freedom from ill health and disease."
+          },
+          {
+            "number": 2,
+            "sanskrit": "अप्सु मे सोमो अब्रवीद्तर्विश्वानि भेष्जा। अग्रिं च विश्वशाम्भुवम् ॥",
+            "transliteration": "Apsu me somo abrav∂dantarvi‹våni bhe¶ajå. Agni≈ ca vi‹va‹ambhuvam.",
+            "meaning": "Soma, the moon and the herbs, creates and shows, and the physician too tells me, that there is universal medicine in the waters for us. And the waters, universal medicine, also create the vital heat of life which is the universal sustainer of us all."
+          },
+          {
+            "number": 3,
+            "sanskrit": "आप: पृणीत भेषजं वरूथं तन्वे३ मम। ज्योक्च सूर्यं दृशे ॥",
+            "transliteration": "Åpa¨ pæƒ∂ta bhe¶aja≈ varμutha≈ tanveímama. Jyokca sμurya≈ dæ‹e.",
+            "meaning": "O waters, give me the best sanative for my body's health for a long life, so that I may see the sun, universal light, every day for a long long time."
+          },
+          {
+            "number": 4,
+            "sanskrit": "शं न आपो धन्वन्या३: शमु सन्त्वनूप्या:। शं न: खनित्रिमा आप: शमु या: कुम्भ आभृता: शिवा न: सन्तु वार्षिकी: ॥",
+            "transliteration": "›a≈ na åpo dhanvanyå¨í‹amu santvanμupyå¨. ›a≈ na¨ khanitrimå åpa¨ ‹amu yå¨ kumbha åbhætå¨ ‹ivå na¨ santu vår¶ik∂¨.",
+            "meaning": "May waters of the desert regions be good and auspicious. May waters of the lakes and marshy lands be good and auspicious for us. May waters of wells and tanks be good and auspicious for us. May waters stored in pots and jars and coolers be good and auspicious for us. And may waters collected from rain be good and auspicious for us. May waters destroy germs, viruses and ailments and promote good health."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "name": "Elimination of Negative Forces",
+        "topic": "Destroying evil and protecting the good",
+        "devata": "Agni (1, 2, 5, 6), Agni and Indra (3, 4, 7)",
+        "rshi": "Chatana",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "स्तुवानमग्ने आ वह यातुधानं किमीदिनम्। त्वं हि देव वन्दितो हन्ता दस्योर्बभूविथ ॥",
+            "transliteration": "Stuvånamagna å vaha yåtudhåna≈ kim∂dinam. Tva≈ hi deva vandito hantå dasyorbabhμuvitha.",
+            "meaning": "Refulgent Agni, ruler and commander, round up the malignant, crafty, flatterer, go getter who does not value life. You alone, honoured and celebrated, are the destroyer of negative, antisocial evil forces of cruelty and destruction."
+          },
+          {
+            "number": 2,
+            "sanskrit": "आज्यस्य परमेष्ठिञ्जातवेदस्तनूवशिन्। अग्ने तौलस्य प्राशान यातुधानान्वि लापय ॥",
+            "transliteration": "Åjyasya parame¶¢hi¤jåtavedastanμuva‹in. Agne taulasya prå‹åna yåtudhånånvi låpaya.",
+            "meaning": "Seated in the highest position, all knowing, self controlled, Agni, taking measured and balanced part of ghrta from us, objective and balanced in judgement of what you receive, punish the negatives and make them repent."
+          },
+          {
+            "number": 3,
+            "sanskrit": "वि लपन्तु यातुधाना अत्त्रिणो ये किमीदिनः। अथेदमग्ने नो हविरिन्द्रश्च प्रति हर्यतम् ॥",
+            "transliteration": "Vi lapantu yåtudhånå attriƒo ye kim∂dina¨. Athedamagne no havirindra‹ca prati haryatam.",
+            "meaning": "Let the antisocial forces that sneer, chatter, disvalue and eat up the resources of society lament, and then you and Indra, wielders of the bolt of justice and punishment, pray accept our homage for the nation's social yajna."
+          },
+          {
+            "number": 4,
+            "sanskrit": "अग्निः पूर्व आ रभतां प्रेन्द्रो नुदतु बाहुमान्। ब्रवीतु सर्वो यातुमानयमस्मीत्येत्य ॥",
+            "transliteration": "Agni¨ pμurva å rabhatå≈ prendro nudatu båhu- mån. Brav∂tu sarvo yåtumånayamasm∂tyetya.",
+            "meaning": "Let Agni take the lead in cleansing, and then let Indra take over with his force of arms, impel, compel and correct them so that all the negative mischief mongers come up and confess: Here I am, and I am sorry."
+          },
+          {
+            "number": 5,
+            "sanskrit": "पश्याम ते वीर्यं जातवेदः प्र णो ब्रूहि यातुधानान्नृचक्षः। त्वया सर्वे परितप्ताः पुरस्तात्त आ यन्तु प्रब्रुवाणा उपेदम् ॥",
+            "transliteration": "Pa‹yåma te v∂rya≈ jåtaveda¨ pra ƒo brμuhi yåtudhånånnæcak¶a¨. Tvayå sarve paritaptå¨ puraståtta å yantu prabruvåƒå upedam.",
+            "meaning": "O Jataveda, all knowing Agni, watcher and guide of all people, none can escape your eye. Pray chastise the negative social elements among us so that all of them, tormented by the chastisement already, come before you and openly say this: We are sorry. We stand corrected."
+          },
+          {
+            "number": 6,
+            "sanskrit": "आ रभस्व जातवेदोऽस्माकार्थाय जज्ञिषे। दूतो नो अग्ने भूत्वा यातुधानान्वि लापय ॥",
+            "transliteration": "Å rabhasva jåtavedoísmåkårthåya jaj¤i¶e. Dμuto no agne bhμutvå yåtudhånånvi låpaya.",
+            "meaning": "Jataveda, refulgent Agni, brilliant ruler, start off the process of cleansing. You are born and risen to your eminence for our collective good and joint progress. Having been our representative and the messenger of our will, punish, correct and eliminate the evil. Let them wail and repent."
+          },
+          {
+            "number": 7,
+            "sanskrit": "त्वमग्ने यातुधानानुपबद्धाँ इहा वह। अथैषामिन्द्रो वज्रेणापि शीर्षाणि वृश्चतु ॥",
+            "transliteration": "Tvamagne yåtudhånånupabaddhåΔ ihå vaha. Athai¶åmindro vajreƒåpi ‹∂r¶åƒi væ‹catu.",
+            "meaning": "Agni, round up and bring here the evil doers caught and bound. And if it is otherwise inevitable, let Indra, even with his thunderbolt of justice and power, eliminate their incorrigible heads."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "name": "Elimination of the Evil",
+        "topic": "Destroying wicked elements",
+        "devata": "Brhaspati, Agni-Soma (1-2), Agni (3-4)",
+        "rshi": "Chatana",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "इदं हविर्यातुधानान्नदी फेनमिवा वहत्। य इदं स्त्री पुमानकरिह स स्तुवतां जनः ॥",
+            "transliteration": "Ida≈ haviryåtudhånånnad∂ phenamivå vahat. Ya ida≈ str∂ pumånakariha sa stuvatå≈ jana¨.",
+            "meaning": "Let this havi, holy submission (of relevant material, investigation report, etc., in the yajnic social management and administration), bring up the saboteurs to book like a rushing stream that brings up the foam, and whoever the man or woman that has committed the foul act must come up here and respectfully present his or her explanation of the case to the ruling authority."
+          },
+          {
+            "number": 2,
+            "sanskrit": "अयं स्तुवान आगमदिमं स्म प्रति हर्यत। बृहस्पते वशे लब्ध्वाग्नीषोमा वि विध्यतम् ॥",
+            "transliteration": "Aya≈ stuvåna ågamadima≈ sma prati haryata. Bæhaspate va‹e labdhvågn∂¶omå vi vidhyatam.",
+            "meaning": "This man is come submitting to authority. Take him, O Brhaspati, high priest of law, and having taken him under control of law, send him to Agni and Soma, commit him to prosecution and defence for justice and proper dispensation."
+          },
+          {
+            "number": 3,
+            "sanskrit": "यातुधानस्य सोमप जहि प्रजां नयस्व च। नि स्तुवानस्य पातय परमक्ष्युतावरम् ॥",
+            "transliteration": "Yåtudhånasya somapa jahi prajå≈ nayasva ca. Ni stuvånasya påtaya paramak¶yutåvaram.",
+            "meaning": "O Somapa, presiding power of peace and law and order, eliminate the saboteurs and the antisocial damagers, and counsel, guide and lead their followers on to the path of positive and creative living. Bring down their pride and insubordination to submission to law and acceptance of authority and remove their lowest spirit of frustration, despair and oppression, now that the defaulter respects and honours you."
+          },
+          {
+            "number": 4,
+            "sanskrit": "यत्रैषामग्ने जनिमानि वेत्थ गुहा सतामत्त्रिणां जातवेदः। तांस्त्वं ब्रह्मणा वावृधानो जह्येषां शततर्हमग्ने ॥",
+            "transliteration": "Yatrai¶åmagne janimåni vettha guhå satåma- ttriƒå≈ jåtaveda¨. Tå≈stva≈ brahmaƒå våvædhåno jahye ¶å≈ ‹atatarhamagne.",
+            "meaning": "Agni, enlightened and fiery leader and ruler, strong with power and force, knowing all the facts and problems of the nation, as you know the generation, rise and growth of these saboteurs and damagers open or underground, ward off and eliminate their mischief of a hundredfold variety, also saving and raising their humanity as far as possible with sacred counsel and knowledge of positive value."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "name": "Power and Lustre",
+        "topic": "Strength and glory for the nation",
+        "devata": "Vasus and others",
+        "rshi": "Atharva",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "अस्मिन्वसु वसवो धारयन्त्विन्द्रः पूषा वरुणो मित्रो अग्निः। इममादित्या उत विश्वे च देवा उत्तरस्मिञ्ज्योतिषि धारयन्तु ॥",
+            "transliteration": "Asminvasu vasavo dhårayantvindra¨ pμu¶å varuƒo mitro agni¨. Imamådityå uta vi‹ve ca devå uttarasmi¤jyoti¶i dhårayantu.",
+            "meaning": "May the Vasus, divine powers of nature and humanity, givers of peace, settlement and brilliance, Indra, lord Supreme, Pusha, giver of nourishment and growth, Varuna, the ocean, Mitra, the sun, Agni, vital heat and fire, Adityas, all phases of the sun, and Vishvedevas, over-all generosity of life, vest this man, this ruler, seeker and aspirant, with wealth, honour and excellence and establish him in the high realms of divine light."
+          },
+          {
+            "number": 2,
+            "sanskrit": "अस्य देवाः प्रदिशि ज्योतिरस्तु सूर्यो अग्निरुत वा हिरण्यम्। सपत्ना अस्मदधरे भवन्तूत्तमं नाकमधि रोहयेमम् ॥",
+            "transliteration": "Asya devå¨ pradi‹i jyotirastu sμuryo agniruta vå hiraƒyam. Sapatnå asmadadhare bhavantμu- ttama≈ nåkamadhi rohayemam.",
+            "meaning": "O Devas, enlightened leaders of humanity, let the energy of light and education for enlightenment, solar energy, fire energy, and all the golden assets of the nation be under the direction and control of this our ruler. Let all our adversaries be under our control. Raise this ruler and his rule to the heights of the highest heavenly light on earth."
+          },
+          {
+            "number": 3,
+            "sanskrit": "येनेन्द्राय समभरः पयांस्युत्तमेन ब्रह्मणा जातवेदः। तेन त्वमग्ने इह वर्धयेमं सजातानां श्रैष्ठ्य आ धेह्येनम् ॥",
+            "transliteration": "Yenendråya samabhara¨ payå≈syuttamena brahmaƒå jåtaveda¨. Tena tvamagna iha vardhayema≈ sajåtånå≈ ‹rai¶¢hya å dhehye-nam.",
+            "meaning": "O Jataveda, lord omniscient over all wealth, power and excellence of existence, by the universal light and knowledge with which you bear and bring all the power and nourishments of body, mind and soul for Indra, spirit of humanity, by the same light and knowledge, O Agni, lord self-refulgent, exalt this man, this aspirant, this ruler, and instal him at the highest merit and virtue among his fellow beings."
+          },
+          {
+            "number": 4,
+            "sanskrit": "एषां यज्ञमुत वर्चो ददे˘हं रायस्पोषमुत चित्तान्यग्ने। सपत्ना अस्मदधरे भवन्तूत्तमं नाकमधि रोहयेमम् ॥",
+            "transliteration": "Ai¶å≈ yaj¤amuta varco dadeíha≈ råyaspo- ¶amuta cittånyagne. Sapatnå asmadadhare bhavantμuttama≈ nåkama-dhi rohayemam.",
+            "meaning": "O lord omniscient and self-refulgent, Agni, I take on the rule and governance of the yajna of these people's social order, their lustre and grandeur, their wealth, growing assets and their common will. Pray, let our adversaries be under the rule of our order, and raise this commonwealth to the heights of enlightenment and heavenly glory on earth."
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "name": "Freedom from Sin",
+        "topic": "Purification and protection",
+        "devata": "Varuna",
+        "rshi": "Atharva",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "अयं देवानामसुरो वि राजति वशा हि सत्यो वरुणस्य राज्ञः। ततस्परि ब्रह्मणा शाशदान उग्रस्य मन्योरुदिमं नयामि॥",
+            "transliteration": "Aya≈ devånåmasuro vi råjati va‹å hi satyo varuƒasya råj¤a¨. Tataspari brahmaƒå ‹å‹adåna ugrasya manyorudima≈ nayåmi.",
+            "meaning": "This Varuna, immanent and transcendent cosmic spirit of justice, love and law, life giver of all devas, vibrant powers of nature and humanity, shines and rules over all. The bonds and bounds of this self-refulgent ruler are ever true and inviolable. Therefore, enlightened, energised and refined by the infinite knowledge and vision of the power and passion of this refulgent omnipotent saviour and protector, I raise this man, this ruler, this self, above the carnal mind to freedom of spirit within the bounds of divine law above the bonds and snares of the arrestive punitive law."
+          },
+          {
+            "number": 2,
+            "sanskrit": "नमस्ते राजन्वरुणास्तु मन्यवे विश्वं ह्युग्र निचिकेषि द्रुग्धम्। सहस्रमन्यान्प्र सुवामि साकं शतं जीवाति शरदस्तवायम्॥",
+            "transliteration": "Namaste råjanvaruƒåstu manyave vi‹va≈ hyugra nicike¶i drugdham. Sahasramanyånpra suvåmi såka≈ ‹ata≈ j∂våti ‹aradastavåyam.",
+            "meaning": "Homage to you, Varuna, refulgent lord and ruler of the world, and salutations to your power and passion for love, justice and rectitude. O formidable lord of law and retribution, you know all the jealous and malignant forces of the world. I drive and inspire a thousand others together to follow the path of rectitude, and so I pray bless this devotee of yours that he may live a full hundred years. Pray bless me that I may inspire others."
+          },
+          {
+            "number": 3,
+            "sanskrit": "यदुवक्थानृतं जिह्वया वृजिनं बहु । राज्ञस्त्वा सत्यधर्मणो मुञ्चामि वरुणादहम्॥",
+            "transliteration": "Yaduvakthånæta≈ jihvayå væjina≈ bahu. Råj¤a- stvå satyadharmaƒo mu¤cåmi varuƒådaham.",
+            "meaning": "O man, whatever untrue or evil, much or otherwise, you have spoken with your tongue, I have you released by the grace of Varuna, lord ruler and ordainer of Truth and Dharma (if you dedicate yourself to Truth and Dharma in thought, word and deed)."
+          },
+          {
+            "number": 4,
+            "sanskrit": "मुञ्चामि त्वा वैश्वानरादर्णवान्महतस्परि। सजातानुग्रहा वद ब्रह्म चाप चिकीहि नः॥",
+            "transliteration": "Mu¤cåmi två vai‹vånarådarƒavånmahataspari. Sajåtånugrehå vada brahma cåpa cik∂hi na¨.",
+            "meaning": "O man, I release you from the fear and terror of Varuna, mighty master and leader of humanity, and from the boundless bottomless ocean of existence. O formidable lord, speak to our fellow men of the universal Veda and receive and accept our devotion and prayer."
+          }
+        ]
+      }, 
+      {
+        "number": 11,
+        "name": "Easy Delivery",
+        "topic": "Childbirth",
+        "devata": "Pusha and others",
+        "rshi": "Atharva",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "वषट् ते पूषन्नस्मिन्त्सूतावर्यमा होता कृणोतु वेधाः। सिस्रतां नार्यृतप्रजाता वि पर्वाणि जिहतां सूतवा उ॥",
+            "transliteration": "Va¶a¢ te pμu¶annasmintsμutåvaryamå hotå kæƒotu vedhå¨. Sisratå≈ nåryætaprajåtå vi parvåƒi jihatå≈ sμutavå u.",
+            "meaning": "O Pusha, spirit of life's procreation, for the expectant mother, may every thing be good and auspicious in this child birth. May Aryama, creative law of nature, hota, the father, Vedha, the specialist physician, all be good and helpful and auspicious. May the mother give birth to the baby comfortably. May she relax all over her body system."
+          },
+          {
+            "number": 2,
+            "sanskrit": "चतस्रो दिवः प्रदिशश्चतस्रो भूम्या उत। देवा गर्भं समैरयन्तं व्यूर्णुवन्तु सूतवे॥",
+            "transliteration": "Catasro diva¨ pradi‹a‹catasro bhμumyå uta. Devå garbha≈ samairayanta≈ vyμurƒuvantu sμutave.",
+            "meaning": "Four are the directions and subdirections of heaven, four are the directions of the earth. All the divinities feed, develop and move the foetus, and they open up the body system and the foetus on maturity for the birth."
+          },
+          {
+            "number": 3,
+            "sanskrit": "सूषा व्यूर्णोतु वि योनिं हापयामसि । श्रथया सूषणे त्वमव त्वं बिष्कले सृज॥",
+            "transliteration": "Sμu¶å vyμurƒotu vi yoni≈ håpayåmasi. ›rathayå sμu¶aƒe tvamava tva≈ bi¶kale sæja.",
+            "meaning": "Let the parturient woman open up, let the maternity staff relax the system for the birth. O mother, relax, let the procreative system open up and deliver the baby."
+          },
+          {
+            "number": 4,
+            "sanskrit": "नेव मांसे न पीवसि नेव मज्जस्वाहतम्। अवैतु पृश्नि शेवलं शुने जराय्वत्तवे˘व जरायु पद्यताम्॥",
+            "transliteration": "Neva må≈se na p∂vasi neva majjasvåhatam. Avaitu pæ‹ni ‹evala≈ ‹une jaråyvattaveíva jaråyu padyatåm.",
+            "meaning": "The cover of the foetus is not stuck in the flesh, nor in the fat, nor in marrow. Let the thin spotted sheet after birth be out for dogs to eat."
+          },
+          {
+            "number": 5,
+            "sanskrit": "वि ते भिनद्मि मेहनं वि योनिं वि गवीनिके। वि मातरं च पुत्रं च वि कुमारं जरायुणाव जरायु पद्यताम्॥",
+            "transliteration": "Vi te bhinadmi mehana≈ vi yoni≈ vi gav∂nike. Vi måtara≈ ca putra≈ ca vi kumåra≈ jaråyu-ƒåva jaråyu padyatåm.",
+            "meaning": "I, physician surgeon, open up your urinary passage, open up the passage of delivery from the womb and separate apart the two parts of the groin. I separate the mother and the baby from the afterbirth. Let the placenta descend."
+          },
+          {
+            "number": 6,
+            "sanskrit": "यथा वातो यथा मनो यथा पतन्ति पक्षिणः। एवा त्वं दशमास्य साकं जरायुणा पताव जरायु पद्यताम्॥",
+            "transliteration": "Yathå våto yathå mano yathå patanti pak¶iƒa¨. Evå tva≈ da‹amåsya såka≈ jaråyuƒå patåva jaråyu padyatåm.",
+            "meaning": "As the wind blows, as the mind moves, as birds fly, so you, O ten month mature baby, move and come with the placenta. Let the afterbirth descend."
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "name": "Lavation of Disease",
+        "topic": "Healing",
+        "devata": "Yakshmanashanam",
+        "rshi": "Bhrgvangira",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "जरायुजः प्रथम उस्रियो वृषा वातभ्रजा स्तनयन्नेति वृष्ट्या। स नो मृडाति तन्व ऋजुगो रुजन्य एकमोजस्त्रेधा विचक्रम॥",
+            "transliteration": "Jaråyuja¨ prathama usriyo væ¶å våtabhrajå stanayanneti væ¶¢yå. Sa no mæŒåti tanva æjugo rujanya ekamojastredhå vicakrame.",
+            "meaning": "The first, born of the sheath of life in the dark womb, it goes forward into life, clad in the rays of light, overflowing, wind impelled, thundering with rain, shattering, straight on, the one living force moving three ways. Benevolent power? May it bless our physical existence. Malevolent? May it spare us in body and mind.",
+            "note": "This is a mysteriously comprehensive verse in its symbolism. The first one born of 'Jara', life sheath in the womb, has been interpreted as the cosmic spirit born of, i.e., manifested from, the darkness darker than the darkest of the Nasadiya sukta of Rgveda, 10, 129, 3 and Devatmashakti of Shvetashvatara Upanishad 1, 3, Svagunair-nigudha, covered under its own primordial potential. It is also interpreted as the sun manifested from the womb of night at dawn or also appearing from the thick cover of dark clouds. It is also interpreted as the cloud of rain born of wind and vapour electrified by thunder. In continuance of the earlier hymn, it is interpreted as the baby. And later it is also interpreted as natal disease born of exposure to sun, wind and rain. Hence the interpretation of 'mrdati': Benevolent power? Bless us. Malevolent? Spare us."
+          },
+          {
+            "number": 2,
+            "sanskrit": "अङ्गेअङ्गे शोचिषा शिश्रियाणं नमस्यन्तस्त्वा हविषा विधेम। अङ्कान्त्समङ्कान्हविषा विधेम यो अग्रभीत्पर्वास्या ग्रभीता॥",
+            "transliteration": "AΔgeaΔge ‹oci¶å ‹i‹riyåƒa≈ namasyantastvå havi¶å vidhema. AΔkåntsamaΔkånhavi¶å vidhema yo agrabh∂tparvåsyå grabh∂tå.",
+            "meaning": "As you pervade every limb with powerful presence, we acknowledge you and offer proper homage. The power which holds every part of the body and all the systems of the body of this child together, we honour, and we present the homage of right order."
+          },
+          {
+            "number": 3,
+            "sanskrit": "मुञ्च शीर्षक्त्या उत कास एनं परुष्परुराविवेशा यो अस्य। यो अभ्रजा वातजा यश्च शुष्मो वनस्पतीन्त्सचतां पर्वतांश्च॥",
+            "transliteration": "Mu¤ca ‹∂r¶aktyå uta kåsa ena≈ paru¶paru- råvive‹å yo asya. Yo abhrajå våtajå ya‹ca ‹u¶mo vanaspat∂ntsa-catå≈ parvatå≈‹ca.",
+            "meaning": "O physician, cure this child of headache and any other ailment of the brain. Free him from cough and congestion that has affected every limb and every joint of its body. Whatever ailment is caused by the rainy season, or by wind, or by heat and dryness may be cured by resort to nature's greenery, forests and mountains."
+          },
+          {
+            "number": 4,
+            "sanskrit": "शं मे परस्मै गात्राय शमस्त्ववराय मे। शं मे चतुभ्यो अङ्गेभ्यः शमस्तु तन्वे मम॥",
+            "transliteration": "›a≈ me parasmai gåtråya ‹amastvavaråya me. ›a≈ me caturbhyo aΔgebhya¨ ‹amastu tanveí mama.",
+            "meaning": "May there be health and well being for the upper parts of my body system. May there be peace and well being for the lower parts of my body system. May there be good health for all the four parts of my body. May there be peace, good health and total well being for the whole body, mind and soul of my life system."
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "name": "Electric Energy",
+        "topic": "Power of electricity",
+        "devata": "Vidyut",
+        "rshi": "Bhrgvangira",
+        "verses": [
+          {
+            "number": 1,
+            "sanskrit": "नमस्ते अस्तु विद्युते नमस्ते स्तनयित्नवे। नमस्ते अस्त्वश्मने येना दूडाश अस्यसि॥",
+            "transliteration": "Namaste astu vidyute namaste stanayitnave. Namaste astva‹mane yenå dμuŒå‹e asyasi.",
+            "meaning": "O lord omnipotent, homage to you for electric energy, homage to you for thunder energy, homage to you for the energy that strikes like a deadly bolt, and for that which attracts and repels and conducts itself to the targets and into the absorbent materials, and by which you strike at the enemy."
+          },
+          {
+            "number": 2,
+            "sanskrit": "नमस्ते प्रवतो नपाद्यतस्तपः समूहसि। मृडया नस्तनूभ्यो मयस्तोकेभ्यस्कृधि॥",
+            "transliteration": "Namaste pravato napådyatastapa¨ samμuhasi. MæŒayå nastanμubhyo mayastokebhyaskædhi.",
+            "meaning": "Homage to you, electric energy of the fall and flood and to the source whence you collect your power and heat. O centre of the energy and power of existence, be kind to our body's health and bring us peace and well being for our future generations."
+          },
+          {
+            "number": 3,
+            "sanskrit": "प्रवता नपान्नम एवास्तु तुभ्यं नमस्ते हतये तपुषे च कृण्मः। विद्म ते धाम परमं गुहा यत्समुद्रे अन्तर्निहितासि नाभिः॥",
+            "transliteration": "Pravato napånnama evåstu tubhya≈ namaste hetaye tapu¶e ca kæƒma¨. Vidma te dhåma parama≈ guhå yatsamudre antarnihitåsi nåbhi¨.",
+            "meaning": "Homage to you, energy of the fall and flood, homage to the force of your strike and the heat we create and collect. We know too the highest and ultimate source, the origin, where you lie hidden in the depth of spatial ocean at the centre of the universe whence flows the energy and the very being of existence."
+          },
+          {
+            "number": 4,
+            "sanskrit": "यां त्वा देवा असृजन्त विश्व इषुं कृण्वाना असनाय धृष्णुम्। सा नो मृड विदथे गृणाना तस्यै ते नमो अस्तु देवि॥",
+            "transliteration": "Yå≈ två devå asæjanta vi‹va i¶u≈ kæƒvånå asanåya dhæ¶ƒum. Så no mæŒa vidathe gæƒånå tasyai te namo astu devi.",
+            "meaning": "O divine energy whom all forces of nature create and divine intellectuals of humanity inculcate, producing inviolable power, arrows like, to shoot at the negative forces in existence in nature and humanity, pray you, praised, honoured and applied, be kind and gracious to us in our battle of life. To you, O divine mother, Shakti, all hail, all homage!"
+          }
+        ]
+      }, 
+      {
+        "number": 14,
+        "name": "The Bride",
+        "devata": "Yama",
+        "rshi": "Bhrgvangira",
+        "verses": [
+        {
+            "number": 1,
+            "sanskrit": "भगमस्या वर्च आदिष्यधि वृक्षादिव स्रजम्। महाबुध्न इव पर्वतो ज्योक्पितृष्वास्ताम्॥",
+            "transliteration": "Bhagamasyå varca ådi¶yadhi væk¶ådiva srajam. Mahåbudhna iva parvato jyokpitæ¶våståm.",
+            "meaning": "I love and honour the beauty, dignity and brilliance of this bride and I declare I accept her for wife as a garland of flowers culled from a spring garden in bloom, and may she, like a mighty mountain broad and deep at the base, stay firm and live a long long time among my father, mother and seniors of the family."
+        },
+        {
+            "number": 2,
+            "sanskrit": "एषा ते राजन्कन्या वधूर्नि धूयतां यम। सा मातुर्बध्यतां गृहेऽथो भ्रातुरथो पितुः॥",
+            "transliteration": "E¶å te råjankanyå vadhμurni dhμuyatå≈ yama. Så måturbadhyatå≈ gæheítho bhråturatho pitu¨.",
+            "meaning": "O brilliant bridegroom dedicated to disciplined family life, this bride is now the wife for you as yama, her husband to lead her home, and may she live bound to her new home of your father, mother and brother, now hers too in the family."
+        },
+        {
+            "number": 3,
+            "sanskrit": "एषा ते कुलपा राजन्तामु ते परि दद्मसि। ज्योक्पितृष्वासाता आ शीर्ष्णः समोप्यात्॥",
+            "transliteration": "E¶å te kulapå råjantåmu te pari dadmasi. Jyok pitæ¶våsåtå å ‹∂r¶ƒa¨ samopyåt.",
+            "meaning": "O brilliant bridegroom, this bride—we now give her hand unto you as wife—is now a member support of your family. May she live a long life among her new parents and seniors, and may she by her thoughts, words and mind contribute to the peace and well being of your family."
+        },
+        {
+            "number": 4,
+            "sanskrit": "असितस्य ते ब्रह्मणा कश्यपस्य गयस्य च। अन्तःकोशमिव जामयोऽपि नह्यामि ते भगम्॥",
+            "transliteration": "Asitasya te brahmaƒå ka‹yapasya gayasya ca. Anta¨ ko‹amiva jåmayoípi nahyåmi te bhagam.",
+            "meaning": "By the word and law of the free, all wise, all watching adorable lord of the universe, I bind together your life and good fortune, dignity and prosperity together, yours, O bride, and yours, O bride groom, and just as women tie up and safeguard the treasure chest of the family, so together you too safeguard the honour and dignity of the family."
+        }
+        ]
+    },
+    {
+    "number": 15,
+    "name": "Joint Power",
+    "devata": "Sindhu",
+    "rshi": "Atharva",
+    "verses": [
+      {
+        "number": 1,
+        "sanskrit": "सं सं स्रवन्तु सिन्धवः सं वाताः सं पतत्त्रिणः। इमं यज्ञं प्रदिवो मे जुषन्तां संस्राव्येण हविषा जुहोमि॥",
+        "transliteration": "Sa≈ sa≈ sravantu sindhava¨ sa≈ våtå¨ sa≈ patattriƒa¨. Ima≈ yaj¤a≈ pradivo me ju¶antå≈ sa≈sråvyeƒa havi¶å juhomi.",
+        "meaning": "Let the streams of water join together, they would flow together as rivers, let currents of wind blow together, and together they blow as storms, let birds fly together, and they fly as bird power in unity. Let brilliant men join this yajna of mine and conduct it together as a joint power, a nation. I perform this yajna with the oblations of liquid ghrta from different streams in unison."
+      },
+      {
+        "number": 2,
+        "sanskrit": "इहैव हवमा यात म इह संस्रावणा उतेमं वर्धयता गिरः। इहैतु सर्वो यः पशुरस्मिन्तिष्ठतु यो रयिः॥",
+        "transliteration": "Ihaiva havamå yåta ma iha sa≈sråvaƒå utema≈ vardhayatå gira¨. Ihaitu sarvo ya¨ pa‹urasminti¶¢hatu yå rayi¨.",
+        "meaning": "O people of the world, confluent and cooperative powers all, leading lights of voice and vision, come at my call, join this yajnic world order and develop and raise it to the heights. Let all living beings, all living resources, join it together here itself, let all wealth of the world abide herein itself."
+      },
+      {
+        "number": 3,
+        "sanskrit": "ये नदीनां संस्रवन्त्युत्सासः सदमक्षिताः। तेभिर्मे सर्वैः संस्रावैर्धनं सं स्रावयामसि॥",
+        "transliteration": "Ye nad∂nå≈ sa≈sravantyutsåsa¨ sadamak¶itå¨. Tebhirme sarvai¨ sa≈sråvairdhana≈ sa≈ sråvayåmasi.",
+        "meaning": "Whichever abundant and inexhaustible streams of world economy flow together in this world order, by all those confluent streams we jointly augment the growth and dynamic stability of the world community for me, i.e., the one spirit of world order, for ourselves."
+      },
+      {
+        "number": 4,
+        "sanskrit": "ये सर्पिषः संस्रवन्ति क्षीरस्य चोदकस्य च। तेभिर्मे सर्वैः संस्रावैर्धनं सं स्रावयामसि॥",
+        "transliteration": "Ye sarpi¶a¨ sa≈sravanti k¶∂rasya codakasya ca. Tebhirme sarvai¨ sa≈sråvairdhana≈ sa≈ sråvayåmasi.",
+        "meaning": "Whatever confluent streams of ghrta, milk and water in the form of world resources, by all those streams we augment and raise the world's wealth together for ourselves."
+      }
+    ]
+  }
+
+ ]
+}
+  
+  
