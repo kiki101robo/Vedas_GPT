@@ -34,7 +34,8 @@ The project includes detailed analysis and visual representations of how each mo
 - **BERT**: Shows higher fertility scores, indicating less efficiency compared to language-specific models.
 - **ByT5**: While comprehensive, its byte-level tokenization leads to higher token counts, which may not be ideal for all tasks.
 
-![Fertility Score Comparison](model_vs_fertility.png)
+![Fertility Score Comparison](![image](https://github.com/user-attachments/assets/994fb463-9b73-4bfb-8870-3b22b68c4d14)
+
 
 ## Files and Execution
 - **[ENPM703_FinalProj.pdf](https://github.com/kiki101robo/Vedas_GPT/blob/main/VedasGPT/VedasGPT/ENPM703_FinalProj.pdf)**: Detailed project report.
