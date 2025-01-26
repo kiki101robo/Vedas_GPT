@@ -37,7 +37,7 @@ The project includes detailed analysis and visual representations of how each mo
 ![Fertility Score Comparison](model_vs_fertility.png)
 
 ## Files and Execution
-- **[ENPM703_FinalProj.pdf]()**: Detailed project report.
+- **[ENPM703_FinalProj.pdf](https://github.com/kiki101robo/Vedas_GPT/blob/main/VedasGPT/VedasGPT/ENPM703_FinalProj.pdf)**: Detailed project report.
 - **Jupyter Notebook**: Contains all the scripts for running the analyses, including tokenization and fertility score calculations.
 
 ## Usage
